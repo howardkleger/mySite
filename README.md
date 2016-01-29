@@ -1,0 +1,2 @@
+# mySite
+Some voices are quiet., such as, this person makes sounds, visuals, performances, installations, exteriors, and concepts.  Others are noisy, such as, "Hello, this is my site.  My name is so and so. You might have seen muses portray so and so.  Sometimes the balance between noise and sound is determined by use of simile and metaphor.  What is the distance between a tree that falls in the woods and a person's featurette website? This site is a small repository and biography of Howard Kleger
